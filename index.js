@@ -58,3 +58,4 @@ displayColors(message, 'Red');
 displayColors(message, 'Red','Blue');
 displayColors(message, 'Red','Blue','Green');
 
+let check = "Check main branch code push"
