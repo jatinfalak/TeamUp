@@ -52,6 +52,8 @@ let displayColors = function(message,...colors){
 
 }
 
+let messageNew = "Coding";
+
 let message = "List of Colors";
 
 displayColors(message, 'Red');
